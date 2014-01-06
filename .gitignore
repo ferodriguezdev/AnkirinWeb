@@ -1,0 +1,11 @@
+/nbproject/private/
+/app/logs/
+/app/cache/
+*php~
+/web/bundles/
+.*
+src/MeloLab/BioGestion/EmployeeBundle/Resources/public/uploads/profilePictures/*
+src/MeloLab/BioGestion/EmployeeBundle/Resources/data-storage/contractDigitalCopy/*
+src/MeloLab/BioGestion/EmployeeBundle/Resources/data-storage/nominationDigitalCopy/*
+!/.gitignore
+!.htaccess
